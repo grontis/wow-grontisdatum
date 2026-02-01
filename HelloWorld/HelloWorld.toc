@@ -1,4 +1,4 @@
-## Interface: 20504
+## Interface: 20505
 ## Title: Hello World
 ## Notes: My first WoW addon - displays a hello world message
 ## Author: YourName
