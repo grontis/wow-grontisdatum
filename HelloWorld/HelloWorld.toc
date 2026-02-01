@@ -1,0 +1,8 @@
+## Interface: 20504
+## Title: Hello World
+## Notes: My first WoW addon - displays a hello world message
+## Author: YourName
+## Version: 1.0
+## SavedVariables: HelloWorldDB
+
+HelloWorld.lua
